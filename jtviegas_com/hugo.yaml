@@ -44,7 +44,8 @@ params:
 
     sidebar:
         # emoji: 🍥
-        subtitle: I am an engineer. I was born in Lisbon, lived in merry Cork, and I am now based in Copenhagen. My work is about extracting value from data. I ride a bike and when I am lucky I go for a dip in the sea.
+        subtitle: I am an engineer. I was born in Lisbon, lived in merry Cork, and I am now based in Copenhagen. 
+            My work is about extracting value from data. I ride a bike and when I am lucky I go for a dip in the sea.
         avatar:
             enabled: true
             local: true
