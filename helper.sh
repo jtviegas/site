@@ -21,6 +21,13 @@ commands() {
         commands:
               start dev server:                         hugo server -D
               build static pages:                       hugo -D
+              hugo new site jtviegas_com
+              hugo mod init github.com/jtviegas/site
+              hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
+              hugo mod tidy   
+              hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v4
+
+
 EOM
 }
 
